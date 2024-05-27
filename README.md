@@ -34,3 +34,6 @@ Compiling and running the application (Angular CLI from project folder):
 
 Accessing app from browser:
 - http://localhost:4200
+
+Running unit tests (Angular CLI form project folder):
+- ng test
