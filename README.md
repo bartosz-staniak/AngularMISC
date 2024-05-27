@@ -28,3 +28,6 @@ Server-side rendering https://v17.angular.io/guide/ssr#why-use-ssr
 Prerendering (SSG), Static Site Generation: https://v17.angular.io/guide/prerendering
 - prerendering a static page adding SSR capabilities, Angular CLI: ng add @angular/ssr
 - generating static pages running build command: ng build
+
+Compiling and running the application (Angular CLI from project folder):
+- ng serve
