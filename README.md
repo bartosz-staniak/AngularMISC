@@ -14,3 +14,6 @@ Installing Angular CLI globally:
 
 Angular CLI help in command line:
 - ng help
+
+Angular application update instructions at:
+- https://update.angular.io/
