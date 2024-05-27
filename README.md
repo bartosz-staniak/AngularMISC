@@ -31,3 +31,6 @@ Prerendering (SSG), Static Site Generation: https://v17.angular.io/guide/prerend
 
 Compiling and running the application (Angular CLI from project folder):
 - ng serve
+
+Accessing app from browser:
+- http://localhost:4200
