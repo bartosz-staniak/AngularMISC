@@ -17,3 +17,7 @@ Angular CLI help in command line:
 
 Angular application update instructions at:
 - https://update.angular.io/
+
+Server-side rendering https://v17.angular.io/guide/ssr#why-use-ssr
+- creating a new application with SSR: ng new --ssr
+- adding SSR to an exisiting project, Angular CLI: ng add @angular/ssr
