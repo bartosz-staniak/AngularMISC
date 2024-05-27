@@ -11,3 +11,6 @@ Checking installed versions in system command line:
 
 Installing Angular CLI globally:
 - npm install -g @angular/cli
+
+Angular CLI help in command line:
+- ng help
