@@ -5,5 +5,5 @@ Required:
 - npm
 
 Checking installed versions in system command line:
-node -v
-npm -v
+- node -v
+- npm -v
