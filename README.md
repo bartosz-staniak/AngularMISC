@@ -37,3 +37,7 @@ Accessing app from browser:
 
 Running unit tests (Angular CLI form project folder):
 - ng test
+
+Default Angular CLI generated unit testing (checking):
+- source code in 'src > app > app.component.html
+- unit checks in 'src > app > app.component.spec.ts
